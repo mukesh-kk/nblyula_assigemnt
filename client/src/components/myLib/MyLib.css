@@ -1,0 +1,21 @@
+.book-wrapper{
+
+    display: flex;
+    border: 1px solid gray;
+    flex-direction: column;
+    max-width: 28%;
+    margin-right: 2%;
+    margin-top: 2%;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.btn{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.all-books{
+display: flex;
+justify-content: flex-start;
+flex-wrap: wrap;
+}

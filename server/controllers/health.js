@@ -1,6 +1,6 @@
 async function Health(req, res, ) {
 
-    res.send('PONG')
+    res.send('PING PONG')
 }
 
 
